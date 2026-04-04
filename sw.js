@@ -3,7 +3,7 @@ const ASSETS = [
   './',
   './index.html',
   './logo.png',
-  './mycardfront2.jpeg',
+  './mycardfront3.jpeg',
   './mycardback.jpeg',
   './qr_code.png',
   './refresh.png',
